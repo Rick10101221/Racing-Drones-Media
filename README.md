@@ -2,7 +2,7 @@
 These images are of the first racing drone we had built as a team. It had LED lights (which were actually pretty beautiful, but hard to see in the daylight), 4 motors with 4 propellers attached, and a suboptimal flight hub (power board and flight controller with right angle male headers were extremely squished together if I remember correctly).
 
 # How We Got the Money to Build Racing Drones
-Can't really leave this part out. In my junior year, our team had 20-30 members. We were broke, but we really wanted to build racing drones. So we did the natural thing and presented to a panel of 4 judges from the Wild River Community Foundation who then gave us a $30,000 grant to fulfill our dreams. Then we built the drones. A lot of them.
+Can't really leave this part out. In my junior year, our team had 20-30 members. We were broke, but we really wanted to build racing drones. So we did the natural thing and presented to a panel of 4 judges from the Wild River Community Foundation<sup>TM</sup> in Del Norte who then gave us a $30,000 grant to fulfill our dreams. Then we built the drones. A lot of them.
 
 # Test Flight Recordings
 I cannot include the test flight recordings we conducted because their file sizes are quite large, and there is some inappropriate language in some of them.
